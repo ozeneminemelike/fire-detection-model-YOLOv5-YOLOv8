@@ -1,0 +1,6 @@
+path: /dataset # dataset file path
+train: /dataset/fire/train   #dataset train file path
+val: /dataset/fire/val    #dataset validation file path
+
+nc: 1
+names: ["fire"]
